@@ -1,1 +1,1 @@
-# Machine-learning-surrogate-for-multiscale-analysis
+# Deep Learning Surrogates for Finite Strain Multiscale Analysis
