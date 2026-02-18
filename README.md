@@ -11,5 +11,5 @@ The DNN can be used as a materail subrountine for FE^2^ analysis of multiscale s
 
 **To test DNN model, run**
 ```
-matlab dnn_test.py
+matlab dnn_material_test.py
 ```
