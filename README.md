@@ -7,7 +7,7 @@ A deep neural network (DNN) model is trained for predicting the material mapping
 ## Benchmark
 The DNN can be used as a materail subrountine for FE^2^ analysis of multiscale structures composed of periodic hyperelastic microstructures. The below example show the defromed shapes from DNN and homogenization:
 
-![](./arch_problem.PNG)
+![](./arch_problem.png)
 
 **To test DNN model, run**
 ```
